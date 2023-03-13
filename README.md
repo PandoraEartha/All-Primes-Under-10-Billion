@@ -7,7 +7,8 @@ This program is recommended that compiled on a Linux server as it will take half
 
 And it use printf instead of storing result to a binary file because i always use nohup to run such file.
 
-'''bash
+```bash
 gcc -o p main.c
+
 ./p
-'''
+```
