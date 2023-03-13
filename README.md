@@ -9,6 +9,5 @@ And it use printf instead of storing result to a binary file because i always us
 
 ```bash
 gcc -o p main.c
-
 ./p
 ```
